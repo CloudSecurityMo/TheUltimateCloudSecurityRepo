@@ -22,7 +22,7 @@ This section provides a simplified explanation of key **authentication methods**
 ## 🔁 SAML (Security Assertion Markup Language)
 
 **Explanation:**  
-SAML is an **XML-based** protocol used for **Single Sign-On (SSO)**, especially in enterprise environments. When you try to access a service (like Salesforce), it redirects you to an identity provider (like Azure AD), which then tells the service, “Yes, this person is authenticated.”
+SAML is an **XML-based** protocol used for **Single Sign-On (SSO)**, especially in enterprise environments. When you try to access a service (like Salesforce), it redirects you to an identity provider (like Entra), which then tells the service, “Yes, this person is authenticated.”
 
 - Works by exchanging **assertions** (securely packaged authentication data).
 - Popular in enterprise apps and older systems.
