@@ -1,6 +1,6 @@
 # ☁️ TheUltimateCloudSecurityRepo
 
-Welcome to **TheUltimateCloudSecurityRepo** – a curated, hands-on, and ever-expanding resource to help you master **Cloud Security** across major cloud providers (AWS, Azure, GCP), DevSecOps practices, compliance, and more.
+Welcome to **TheUltimateCloudSecurityRepo** – a curated, hands-on, and ever-expanding resource to help you master **Cloud Security** across major cloud providers (AWS, Azure), DevSecOps practices, compliance, and more.
 
 Whether you're a beginner, a security engineer, or a cloud architect, this repo is built to be your one-stop reference.
 
